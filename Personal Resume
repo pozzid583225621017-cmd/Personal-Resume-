@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Resume</title>
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .resume {
+            background: white;
+            padding: 20px;
+            width: 700px;
+            margin: auto;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            border-bottom: 2px solid #3498db;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="resume">
+
+<h1>Pozzi</h1>
+<p>Email: pozzi@email.com | Phone: 9876543210 | City: Dindigul</p>
+
+<h2>Career Objective</h2>
+<p>To get placed in a good company and grow to a higher position through hard work and dedication.</p>
+
+<h2>Education</h2>
+<ul>
+    <li>UG – Bon Secours Arts and Science College for Women</li>
+    <li>PG – NPR College of Engineering and Technology</li>
+</ul>
+
+<h2>Skills</h2>
+<ul>
+    <li>Time Management</li>
+    <li>Teamwork</li>
+    <li>HTML, CSS, Python</li>
+</ul>
+
+<h2>Projects</h2>
+<p>Student Portfolio Website using HTML & CSS</p>
+
+<h2>Personal Details</h2>
+<p>
+Name: Pozzi <br>
+Languages: Tamil, English <br>
+</p>
+
+<h2>Declaration</h2>
+<p>I hereby declare that the above information is true.</p>
+
+</div>
+
+</body>
+</html>
